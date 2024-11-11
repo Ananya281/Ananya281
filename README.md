@@ -26,3 +26,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ananya281&show_icons=true&locale=en" alt="ananya281" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananya281&" alt="ananya281" /></p>
+
+<details>	
+ <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">.
+  <img src="https://gssoc-dymanic-badges.vercel.app/api/Ananya281?year=2024Extd" width="100px" height="100px" />
+</div>
+</details>
