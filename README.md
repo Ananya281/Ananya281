@@ -1,6 +1,6 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Ananya Chauhan!
 
-### A passionate FULL STACK and [Your Specialization] Developer
+### A passionate FULL STACK and React Developer
 
 ![Header Banner](path-to-your-header-image)
 
