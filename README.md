@@ -1,43 +1,69 @@
-<h1 align="center">Hi 👋, I'm Ananya Chauhan</h1>
-<h3 align="center">A passionate code enthusiast from India</h3>
-<img align="right" width=400 alt="coding" src="https://images.unsplash.com/photo-1480506132288-68f7705954bd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=920&q=80">
+# Hi there 👋, I'm [Your Name]!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya281&label=Profile%20views&color=0e75b6&style=flat" alt="ananya281" /> </p>
+### A passionate FULL STACK and [Your Specialization] Developer
 
-- 🔭 I’m currently working on **Dance Website (Web Development)**
+![Header Banner](path-to-your-header-image)
 
-- 🌱 I’m currently learning **Full Stack, C++ and Python**
+Thrilled to connect with you here! As a web developer, I'm adept in **MERN**, **Next.js**, **Firebase**, and other cutting-edge technologies, driven by a passion for crafting engaging and user-friendly web experiences. Eager to learn and grow, I actively seek new opportunities to enhance my skills and contribute to innovative projects.
 
-- 💬 Ask me about **Frontend, C, C++ and Python**
+### 🎯 What I'm currently working on:
 
-- 📫 How to reach me **ananyachauhan647@gmail.com**
+- 🎮 **Building my CP Skills**
+- 🌿 **Learning Generative AI**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ananya-chauhan-b89378251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananya-chauhan-b89378251" height="30" width="40" /></a>
-<a href="https://instagram.com/ananyachauhan2801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ananyachauhan2801" height="30" width="40" /></a>
-</p>
+### 🔧 Ask me about:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- MERN Stack
+- Next.js
+- DSA
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ananya281&show_icons=true&locale=en&layout=compact" alt="ananya281" /></p>
+### 📞 How to reach me:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ananya281&show_icons=true&locale=en" alt="ananya281" /></p>
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Resume**: [Link to Your Resume](#)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananya281&" alt="ananya281" /></p>
+---
 
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-</div>
-</details>
+## My Favorite Tools and Technologies ⚙️
+
+**Tools and technologies that I have worked with and am interested in:**
+
+| ![C#](path-to-csharp-icon) | ![Python](path-to-python-icon) | ![JavaScript](path-to-javascript-icon) | ![Django](path-to-django-icon) | ![Git](path-to-git-icon) |
+|---|---|---|---|---|
+| ![HTML](path-to-html-icon) | ![CSS](path-to-css-icon) | ![Tailwind](path-to-tailwind-icon) | ![Bootstrap](path-to-bootstrap-icon) | ![Postman](path-to-postman-icon) |
+| ![Docker](path-to-docker-icon) | ![Redis](path-to-redis-icon) | ![RabbitMQ](path-to-rabbitmq-icon) | ![Nginx](path-to-nginx-icon) | ![Celery](path-to-celery-icon) |
+
+---
+
+## GitHub Stats:
+
+### [Your Name's GitHub Stats]
+
+- **Total Stars Earned**: `XX`
+- **Total Commits (2024)**: `XX`
+- **Total PRs**: `XX`
+- **Total Issues**: `XX`
+- **Contributed to (last year)**: `XX`
+
+![GitHub Stats](path-to-github-stats-image)
+
+### Most Used Languages:
+
+- **Language 1**: `XX%`
+- **Language 2**: `XX%`
+- **Language 3**: `XX%`
+
+---
+
+## GitHub Profile Trophy 🏆
+
+| Trophy | Trophy | Trophy | Trophy |
+|---|---|---|---|
+| ![MultiLanguage](path-to-trophy-1) | ![Joined 2020](path-to-trophy-2) | ![Stars](path-to-trophy-3) | ![Followers](path-to-trophy-4) |
+| ![Pull Requests](path-to-trophy-5) | ![Commits](path-to-trophy-6) | ![Repositories](path-to-trophy-7) | ![Issues](path-to-trophy-8) |
+
+---
+
+### 🎮 Follow My Journey!
+
+[![YouTube](path-to-youtube-icon)](https://youtube.com/yourchannel) [![Instagram](path-to-instagram-icon)](https://instagram.com/yourhandle) [![LinkedIn](path-to-linkedin-icon)](https://linkedin.com/in/yourprofile) [![Discord](path-to-discord-icon)](https://discord.gg/yourinvite)
