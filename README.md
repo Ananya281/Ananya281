@@ -25,8 +25,8 @@
   <li>🌱 I’m currently learning Computer Vision.</li>
   <li>💡 Ask me about anything related to MERN and DSA.</li>
   <li>📫 How to reach me: <a href="mailto:ananyachauhan647@gmail.com">ananyachauhan647@gmail.com</a></li>
-  <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1KdqYZFavNjmOS_Mq2kGIa5aANP8-ZYLf/view?usp=sharing" target="_blank">Resume</a></li>
-  <li>🌐 Portfolio: <a href="https://my-portfolio-mu-seven-78.vercel.app/" target="_blank">My Portfolio</a></li>
+<!--   <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1KdqYZFavNjmOS_Mq2kGIa5aANP8-ZYLf/view?usp=sharing" target="_blank">Resume</a></li>
+  <li>🌐 Portfolio: <a href="https://my-portfolio-mu-seven-78.vercel.app/" target="_blank">My Portfolio</a></li> -->
 </ul>
 
 ---
